@@ -1,5 +1,6 @@
 # Project
-
+```
+.
 ├── data
 │   ├── interimediate  <- Intermediate data that has been transformed.
 │   ├── processed      <- The final, canonical data sets for modeling.
@@ -36,4 +37,4 @@
     │
     └── visualization  <- Scripts to create exploratory and results oriented visualizations
         └── visualize.py
-# template-ds
+```
